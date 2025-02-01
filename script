@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/XenoMaHub/SA/refs/heads/main/Att.txt"))
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XenoMaHub/SA/refs/heads/main/Att.txt"))()
